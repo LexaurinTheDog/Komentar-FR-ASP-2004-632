@@ -16,7 +16,7 @@
 >
 > d) De mettre en valeur des propriétés.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 1er ouvre l'ordonnance en définissant l'objet possible d'une association syndicale de propriétaires. Il ne s'agit pas d'une définition de la personne morale elle-même — celle-ci résulte de l'article 2 — mais de la délimitation matérielle de ce qui peut être confié à une telle structure. Le texte vise trois types d'activités : la construction, l'entretien ou la gestion d'ouvrages ; la réalisation de travaux ; enfin les « actions d'intérêt commun ». Cette dernière formule, plus large, permet de rattacher à l'association des missions qui ne se traduisent pas nécessairement par un ouvrage matériel, pourvu qu'elles servent l'intérêt partagé des propriétaires.
 
@@ -24,7 +24,7 @@ Ces activités doivent être exercées « en vue » de l'une des quatre finalit�
 
 La distinction entre les points a) à c) et le point d) n'est pas purement descriptive : l'article 43 ne permet la constitution d'office d'une association que pour les ouvrages ou travaux mentionnés aux a à c, et seulement lorsqu'une obligation légale pèse sur les propriétaires. L'énumération de l'article 1er fonde ainsi à la fois la licéité de l'objet statutaire (cf. art. 7, second alinéa, et art. 11) et le champ de l'intervention contraignante de l'autorité administrative.
 
-La note de la source rappelle que l'ordonnance, prise par le Gouvernement, a été ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004 ; ses dispositions ont donc valeur législative.
+La note de la source rappelle que l'ordonnance, prise par le Gouvernement, a été ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004 ; ses dispositions ont donc valeur législative.
 
 ### Article 2
 
@@ -36,7 +36,7 @@ La note de la source rappelle que l'ordonnance, prise par le Gouvernement, a ét
 >
 > Les associations syndicales autorisées ou constituées d'office ainsi que leurs unions sont des établissements publics à caractère administratif, régis par les dispositions des titres III à V de la présente ordonnance et par l'article L. 211-2 du code des juridictions financières.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 2 pose la typologie fondamentale de l'ordonnance : les associations syndicales de propriétaires sont « libres, autorisées ou constituées d'office ». Ces trois catégories se distinguent par leur mode de formation — consentement unanime pour l'association libre (art. 7), autorisation administrative fondée sur une majorité qualifiée pour l'association autorisée (art. 14), décision unilatérale de l'autorité administrative pour l'association constituée d'office (art. 43) — et, surtout, par leur nature juridique.
 
@@ -54,7 +54,7 @@ Le renvoi au code des juridictions financières, qui figure également dans les 
 >
 > Lors de la mutation d'un bien compris dans le périmètre d'une association syndicale, avis de la mutation doit être donné, dans les conditions prévues à l'article 20 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis, à l'association qui peut faire opposition dans les conditions prévues audit article pour obtenir le paiement des sommes restant dues par l'ancien propriétaire.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 3 exprime le trait le plus caractéristique des associations syndicales : leur caractère réel. Les droits et obligations nés de la constitution de l'association ne sont pas attachés à la personne du propriétaire, mais aux immeubles compris dans le périmètre ; ils les suivent « en quelque main qu'ils passent ». L'acquéreur d'un bien inclus dans le périmètre devient donc membre de plein droit, sans adhésion personnelle, et le vendeur cesse de l'être. Ce rattachement dure jusqu'à la dissolution de l'association (art. 40 à 42, 45) ou jusqu'à la réduction de son périmètre (art. 38).
 
@@ -70,7 +70,7 @@ Le troisième alinéa organise la protection financière de l'association lors d
 >
 > Le propriétaire d'un immeuble inclus dans le périmètre d'une association syndicale de propriétaires doit, en cas de transfert de propriété, informer le futur propriétaire de cette inclusion et de l'existence éventuelle de servitudes. Il doit informer le locataire de cet immeuble de cette inclusion et de ces servitudes.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 4 organise la connaissance, par l'association et par les tiers, de la composition du périmètre et de l'identité des membres. Il complète l'article 3 : puisque la qualité de membre suit l'immeuble, l'association doit pouvoir identifier à tout moment les propriétaires concernés.
 
@@ -84,7 +84,7 @@ Le second alinéa crée deux obligations d'information à la charge du propriét
 
 > Les associations syndicales de propriétaires peuvent agir en justice, acquérir, vendre, échanger, transiger, emprunter et hypothéquer sous réserve de l'accomplissement des formalités de publicité prévues selon le cas aux articles 8, 15 ou 43.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 5 énumère les principaux attributs de la capacité juridique des associations syndicales de propriétaires : agir en justice, acquérir, vendre, échanger, transiger, emprunter et hypothéquer. Cette capacité est reconnue à toutes les catégories d'associations, puisque l'article figure parmi les dispositions communes.
 
@@ -102,7 +102,7 @@ L'enjeu pratique de cette condition est illustré par l'article 60, I, troisièm
 >
 > Les conditions d'inscription et de mainlevée de cette hypothèque sont celles prévues aux trois premiers alinéas de l'article 19 de la loi du 10 juillet 1965 précitée.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 6 institue une sûreté légale au profit de l'association : ses créances « de toute nature » contre un membre sont garanties par une hypothèque légale sur les immeubles de ce membre compris dans le périmètre. L'assiette de la sûreté est donc limitée aux biens qui fondent l'appartenance à l'association, ce qui est cohérent avec le caractère réel des obligations posé par l'article 3. La formule « de toute nature » couvre les redevances ordinaires et spéciales (art. 31, II), mais aussi toute autre créance de l'association envers le membre.
 
@@ -122,7 +122,7 @@ Pour les associations syndicales autorisées et constituées d'office, cette hyp
 >
 > Les statuts de l'association définissent son nom, son objet, son siège et ses règles de fonctionnement. Ils comportent la liste des immeubles compris dans son périmètre et précisent ses modalités de financement et le mode de recouvrement des cotisations.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 7 ouvre le titre II consacré aux associations syndicales libres, personnes morales de droit privé (art. 2). Le premier alinéa pose la règle de formation : l'association se forme par le consentement unanime des propriétaires intéressés, constaté par écrit. L'unanimité est la contrepartie de l'absence de toute intervention de la puissance publique ; nul propriétaire ne peut se voir imposer l'adhésion à une association libre lors de sa constitution. Une fois l'association formée, l'adhésion se transmet toutefois avec l'immeuble aux acquéreurs successifs en vertu de l'article 3, ce qui explique que l'association libre soit souvent constituée dès l'origine d'une opération immobilière, lorsque les propriétaires sont encore peu nombreux.
 
@@ -142,7 +142,7 @@ Le contenu statutaire défini par cet alinéa sert aussi de modèle au-delà du 
 >
 > L'omission des présentes formalités ne peut être opposée aux tiers par les membres de l'association.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 8 organise la publicité de l'association syndicale libre, condition de l'exercice de sa capacité juridique (art. 5). Le premier alinéa prévoit une déclaration à la préfecture du département ou à la sous-préfecture de l'arrondissement du siège prévu, accompagnée de deux exemplaires des statuts ; un récépissé est délivré dans un délai de cinq jours. Il s'agit d'un régime déclaratif : l'administration enregistre la déclaration, sans autoriser la création.
 
@@ -160,7 +160,7 @@ Le quatrième alinéa définit la sanction de l'omission des formalités dans le
 >
 > Le syndicat règle, par ses délibérations, les affaires de l'association.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 9 fixe l'organisation minimale de l'association syndicale libre. Le premier alinéa impose l'existence d'un syndicat, organe d'administration composé de membres élus parmi les propriétaires membres de l'association ou leurs représentants, « dans les conditions fixées par les statuts ». Le deuxième alinéa attribue à ce syndicat une compétence générale : il « règle, par ses délibérations, les affaires de l'association ».
 
@@ -176,7 +176,7 @@ L'article 10-1 confère par ailleurs au syndicat un rôle particulier en matièr
 >
 > Si elle est autorisée, la transformation n'entraîne pas la création d'une nouvelle personne morale. Elle intervient à titre gratuit et ne donne lieu au paiement d'aucune indemnité, droit, taxe, contribution prévue à l' article 879 du code général des impôts ou honoraire.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 10 ménage une passerelle entre le régime privé et le régime public. Une association syndicale libre peut demander à être transformée en association syndicale autorisée, établissement public administratif (art. 2). Trois conditions sont posées : un délai d'un an doit s'être écoulé depuis la publication de l'extrait des statuts au Journal officiel prévue au deuxième alinéa de l'article 8 ; la demande doit être décidée par une délibération de l'assemblée des propriétaires adoptée à la majorité qualifiée de l'article 14 ; elle est adressée à l'autorité administrative compétente dans le département du siège. La procédure se poursuit alors selon les articles 12, 13 et 15 : enquête publique, consultation des propriétaires et publicité de l'acte d'autorisation.
 
@@ -214,7 +214,7 @@ L'article 5 reconnaissait déjà aux associations la capacité d'emprunter ; l'a
 >
 > En outre, l'autorité administrative peut prendre l'initiative de la création d'une association syndicale autorisée.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 11 ouvre le titre III relatif aux associations syndicales autorisées et règle l'initiative de leur création. Le premier alinéa reconnaît le droit de demander la création à un ou plusieurs propriétaires intéressés, à une collectivité territoriale ou à un groupement de collectivités territoriales. L'initiative n'exige donc pas un nombre minimum de propriétaires : un seul suffit à saisir l'administration, la mesure du soutien au projet intervenant ultérieurement, lors de la consultation (art. 13 et 14).
 
@@ -252,7 +252,7 @@ L'article 12 sert de référence pour d'autres procédures : l'article 37 y renv
 >
 > Les modalités de la consultation des propriétaires sont définies par le décret en Conseil d'Etat prévu à l'article 62.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 13 organise la consultation des propriétaires, distincte de l'enquête publique de l'article 12, qu'elle suit. Le premier alinéa confie à l'acte ordonnant l'ouverture de l'enquête le soin d'organiser cette consultation, qui intervient à l'issue de l'enquête. L'enquête vise l'information du public et le recueil des observations ; la consultation vise à mesurer l'adhésion des propriétaires concernés, dont dépend l'autorisation (art. 14).
 
@@ -268,7 +268,7 @@ Le troisième alinéa renvoie les modalités de la consultation au décret en Co
 
 > La création de l'association syndicale peut être autorisée par l'autorité administrative lorsque la majorité des propriétaires représentant au moins les deux tiers de la superficie des propriétés ou les deux tiers des propriétaires représentant plus de la moitié de la superficie des propriétés se sont prononcés favorablement.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 14 fixe la condition de majorité dont dépend l'autorisation de création d'une association syndicale autorisée. Deux combinaisons alternatives sont prévues : soit la majorité des propriétaires représentant au moins les deux tiers de la superficie des propriétés, soit les deux tiers des propriétaires représentant plus de la moitié de la superficie. La double pondération, par têtes et par surfaces, évite qu'une minorité de grands propriétaires impose l'association à un grand nombre de petits propriétaires, ou inversement.
 
@@ -284,7 +284,7 @@ La règle de l'article 14 sert de référence générale dans l'ordonnance, qui 
 >
 > L'acte refusant d'autoriser la création de l'association syndicale est notifié aux propriétaires mentionnés au troisième alinéa de l'article 12.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 15 règle la publicité de l'acte autorisant la création de l'association syndicale autorisée et la notification de l'acte de refus. Le premier alinéa impose trois formalités cumulatives pour l'acte d'autorisation : publication, affichage dans chaque commune sur le territoire de laquelle s'étend le périmètre, notification aux propriétaires mentionnés au troisième alinéa de l'article 12, c'est-à-dire à ceux qui ont reçu notification de l'ouverture de l'enquête. Les conditions précises sont renvoyées au décret en Conseil d'État prévu à l'article 62 (voir son 3°).
 
@@ -302,7 +302,7 @@ L'article 15 constitue le modèle de publicité de toutes les décisions adminis
 >
 > Dans le cas contraire, elle nomme un liquidateur dans les conditions prévues à l'article 42 pour l'exercice des missions définies à cet article.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 16 règle les conséquences de l'annulation contentieuse de l'acte autorisant la création d'une association syndicale autorisée. Une telle annulation fait disparaître rétroactivement le fondement juridique de l'établissement public, alors même que celui-ci a pu fonctionner, engager des dépenses, conclure des marchés et réaliser des ouvrages. Le texte distingue deux situations selon la portée de l'annulation.
 
@@ -320,7 +320,7 @@ L'article 16 témoigne du souci de l'ordonnance d'éviter qu'une irrégularité 
 >
 > Ce délaissement ouvre droit, à la charge de l'association, à une indemnisation. A défaut d'accord entre le propriétaire et l'association, l'indemnité est fixée selon les règles de procédure du code de l'expropriation pour cause d'utilité publique.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 17 institue le droit de délaissement, contrepartie de la contrainte exercée sur la minorité par la création d'une association syndicale autorisée. Seul en bénéficie le propriétaire qui s'est prononcé « expressément » contre le projet ; celui qui s'est abstenu et a été réputé favorable en application de l'article 13 en est exclu.
 

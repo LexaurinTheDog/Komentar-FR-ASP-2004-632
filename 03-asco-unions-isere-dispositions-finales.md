@@ -16,7 +16,7 @@
 >
 > En cas de carence, l'autorité administrative peut, après mise en demeure restée sans effet dans un délai d'un mois, se substituer dans tous leurs actes aux organes défaillants de l'association syndicale constituée d'office.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 43 ouvre le titre IV et régit la troisième catégorie d'associations prévue par l'article 2 : l'association syndicale constituée d'office, établissement public administratif créé par décision unilatérale de l'autorité administrative. Le premier alinéa en fixe les conditions, strictes et cumulatives. L'objet doit relever des ouvrages ou travaux mentionnés aux a à c de l'article 1er — prévention des risques et pollutions, ressources naturelles, cours d'eau, lacs, plans d'eau, voies et réseaux — à l'exclusion de la simple mise en valeur des propriétés (d). Il doit exister une obligation légale à la charge des propriétaires. Enfin, une association syndicale autorisée « n'a pu être constituée », ce qui fait de la constitution d'office une solution subsidiaire, lorsque la voie consensuelle des articles 11 à 15 a échoué. L'association regroupe alors l'ensemble des propriétaires intéressés.
 
@@ -34,7 +34,7 @@ L'accomplissement des formalités de publicité de l'article 43 conditionne la c
 >
 > La transformation peut être prononcée par l'autorité administrative lorsque les membres du syndicat ont été désignés par l'assemblée des propriétaires et lorsque l'association fonctionne normalement depuis au moins un exercice budgétaire.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 44 organise la transformation d'une association syndicale constituée d'office en association syndicale autorisée. Il est le pendant de l'article 10, qui permet la transformation d'une association libre en association autorisée ; l'association autorisée apparaît ainsi comme la forme centrale vers laquelle convergent les deux autres catégories.
 
@@ -50,7 +50,7 @@ L'article ne précise pas les effets de la transformation sur la personnalité m
 
 > La dissolution d'une association syndicale constituée d'office ne peut être décidée qu'à l'initiative de l'autorité administrative.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 45 réserve à l'autorité administrative l'initiative de la dissolution d'une association syndicale constituée d'office. Il déroge ainsi au premier alinéa de l'article 40, qui permet la dissolution d'une association autorisée à la demande de ses membres réunis à la majorité de l'article 14.
 
@@ -64,7 +64,7 @@ Les propriétaires conservent cependant un moyen indirect : obtenir la transform
 
 > Les autres dispositions régissant les associations syndicales autorisées sont applicables aux associations syndicales constituées d'office.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 46 est une disposition de renvoi général : « les autres dispositions régissant les associations syndicales autorisées sont applicables aux associations syndicales constituées d'office ». Le titre IV ne contient donc qu'un régime dérogatoire limité à la création (art. 43), à la transformation (art. 44) et à la dissolution (art. 45) ; pour le reste, l'association constituée d'office fonctionne comme une association autorisée.
 
@@ -96,7 +96,7 @@ Le renvoi à « d'autres dispositions » réserve celles du titre IV qui ont un 
 >
 > Les autres dispositions régissant les associations syndicales autorisées sont applicables aux unions.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 47 ouvre le titre V et régit les unions d'associations syndicales. Le premier alinéa en définit l'objet et la composition : les associations syndicales autorisées ou constituées d'office peuvent se grouper en unions « pour faciliter leur gestion ou en vue de l'exécution ou de l'entretien de travaux ou d'ouvrages d'intérêt commun ». Les associations libres en sont exclues. L'union est formée sur la demande d'une ou plusieurs associations adressée à l'autorité administrative du siège prévu. Elle est un établissement public administratif (art. 2).
 
@@ -118,7 +118,7 @@ Le huitième alinéa permet la dissolution de l'union par acte de l'autorité ad
 >
 > La fusion peut être autorisée par acte de l'autorité administrative lorsque l'assemblée des propriétaires de chaque association appelée à fusionner s'est prononcée favorablement dans les conditions de majorité prévues à l'article 14.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 48 régit la fusion d'associations syndicales, distincte de l'union de l'article 47. Alors que l'union superpose un établissement de second degré aux associations qui conservent leur existence, la fusion réunit deux ou plusieurs associations en une seule association syndicale autorisée.
 
@@ -131,6 +131,150 @@ Le troisième alinéa fixe la condition de majorité : la fusion peut être auto
 Le texte ne règle pas expressément le sort des patrimoines, des contrats et des personnels des associations fusionnées, ni les formalités de publicité ; la cohérence avec les articles 15 et 42 et le décret d'application de l'article 62 doivent guider la mise en œuvre.
 
 #### TITRE VI — DISPOSITIONS RELATIVES AUX ASSOCIATIONS REGIES PAR DES TEXTES PARTICULIERS
+
+#### Chapitre Ier — Dispositions relatives aux syndicats d'assainissement des voies privées
+
+### Article 49
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Loi n°1912-07-22. du 22 juillet 1912 - art. 10 (V)
+>
+> Modifie : Loi n°1912-07-22. du 22 juillet 1912 - art. 12 (V)
+>
+> Crée : Loi n°1912-07-22. du 22 juillet 1912 - art. 17 (V)
+>
+> Crée : Loi n°1912-07-22. du 22 juillet 1912 - art. 18 (M)
+>
+> Modifie : Loi n°1912-07-22. du 22 juillet 1912 - art. 2 (V)
+>
+> Modifie : Loi n°1912-07-22. du 22 juillet 1912 - art. 3 (V)
+>
+> Modifie : Loi n°1912-07-22. du 22 juillet 1912 - art. 5 (V)
+>
+> Modifie : Loi n°1912-07-22. du 22 juillet 1912 - art. 6 (V)
+
+L'article 49 ouvre le titre VI, consacré aux associations régies par des textes particuliers, ainsi que son chapitre Ier, relatif aux syndicats d'assainissement des voies privées. Il s'agit d'un article purement modificatif : selon la source, il a modifié les articles 2, 3, 5, 6, 10 et 12 de la loi du 22 juillet 1912 et y a créé les articles 17 et 18. La base LEGI ne lui attribue pas de période de vigueur ; son effet s'est épuisé dans la modification du texte visé, dont les dispositions doivent être consultées dans leur rédaction en vigueur.
+
+L'intitulé du titre VI, consacré aux associations « régies par des textes particuliers », éclaire la démarche : pour ces associations, l'ordonnance procède par modification des textes spéciaux qui les gouvernent. Les mentions entre parenthèses indiquent, selon les conventions de la base, l'état actuel des articles visés : en vigueur (« (V) ») pour la plupart, modifié depuis (« (M) ») pour l'article 18.
+
+### Article 50
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Code de la voirie routière - art. L162-6 (V)
+
+L'article 50, second article du chapitre Ier du titre VI (syndicats d'assainissement des voies privées), a modifié selon la source l'article L. 162-6 du code de la voirie routière, signalé comme en vigueur (« (V) »). Article modificatif sans période de vigueur propre, il complète l'article 49 en coordonnant le code de la voirie routière avec les règles nouvelles applicables à ces syndicats. Le droit applicable se trouve dans l'article du code ainsi modifié.
+
+#### Chapitre II — Dispositions relatives aux associations foncières urbaines
+
+### Article 51
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Code de l'urbanisme - art. L322-1 (V)
+>
+> Modifie : Code de l'urbanisme - art. L322-10 (V)
+>
+> Modifie : Code de l'urbanisme - art. L322-11 (V)
+>
+> Modifie : Code de l'urbanisme - art. L322-2 (M)
+>
+> Modifie : Code de l'urbanisme - art. L322-3 (V)
+>
+> Modifie : Code de l'urbanisme - art. L322-4-1 (V)
+>
+> Modifie : Code de l'urbanisme - art. L322-5 (M)
+>
+> Modifie : Code de l'urbanisme - art. L322-6 (M)
+>
+> Modifie : Code de l'urbanisme - art. L322-7 (V)
+>
+> Modifie : Code de l'urbanisme - art. L322-9 (V)
+
+L'article 51 forme à lui seul le chapitre II du titre VI, consacré aux associations foncières urbaines. Selon la source, il a modifié une série d'articles du code de l'urbanisme : L. 322-1, L. 322-2, L. 322-3, L. 322-4-1, L. 322-5, L. 322-6, L. 322-7, L. 322-9, L. 322-10 et L. 322-11. Les associations foncières urbaines restent donc régies par le code de l'urbanisme, que l'ordonnance a adapté plutôt que d'en intégrer le régime dans son propre texte.
+
+Les mentions « (V) » et « (M) » qui suivent les références signalent, selon les conventions de la base LEGI, que l'article visé est en vigueur ou a été modifié depuis. L'article 51 n'a pas de contenu normatif autonome dans la version consolidée : il est reproduit pour que la numérotation et la structure du titre VI soient complètes, et le lecteur doit se reporter au code de l'urbanisme pour le droit applicable.
+
+#### Chapitre III — Dispositions relatives aux associations syndicales rurales
+
+### Article 52
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Code forestier - art. L247-7 (VT)
+>
+> Modifie : Code rural - art. L131-1 (V)
+>
+> Modifie : Code rural - art. L133-5 (M)
+>
+> Modifie : Code rural - art. L133-6 (M)
+>
+> Crée : Code rural - art. L133-7 (M)
+>
+> Modifie : Code rural - art. L135-12 (M)
+>
+> Modifie : Code rural - art. L135-3 (M)
+>
+> Modifie : Code rural - art. L135-3-1 (V)
+>
+> Modifie : Code rural - art. L135-6 (M)
+>
+> Modifie : Code rural - art. L135-7 (V)
+>
+> Modifie : Code rural - art. L136-13 (M)
+>
+> Modifie : Code rural - art. L136-4 (V)
+>
+> Modifie : Code rural - art. L136-7 (V)
+>
+> Modifie : Code rural - art. L136-7-1 (V)
+>
+> Modifie : Code rural - art. L151-41 (V)
+>
+> Modifie : Code rural - art. L151-6 (M)
+>
+> Modifie : Code rural - art. L161-11 (M)
+>
+> Modifie : Code rural - art. L161-6 (V)
+>
+> Modifie : Code rural - art. L161-7 (V)
+
+L'article 52 ouvre le chapitre III du titre VI, relatif aux associations syndicales rurales. C'est l'article modificatif le plus étendu de l'ordonnance : selon la source, il a modifié l'article L. 247-7 du code forestier et de nombreux articles du code rural (notamment L. 131-1, L. 133-5, L. 133-6, L. 135-3, L. 135-3-1, L. 135-6, L. 135-7, L. 135-12, L. 136-4, L. 136-7, L. 136-7-1, L. 136-13, L. 151-6, L. 151-41, L. 161-6, L. 161-7 et L. 161-11), et créé l'article L. 133-7 de ce code.
+
+La mention « (VT) » accolée à l'article du code forestier signale, selon les conventions de la base LEGI, une disposition en vigueur assortie d'un terme ; les autres mentions indiquent une disposition en vigueur (« (V) ») ou modifiée depuis (« (M) »). L'article n'a pas de période de vigueur propre et ne régit lui-même aucune situation.
+
+### Article 53
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Code forestier - art. L247-1 (V)
+>
+> Crée : Code forestier - art. L247-8 (VT)
+>
+> Modifie : Code forestier - art. L321-2 (M)
+>
+> Modifie : Code forestier - art. L321-3 (VT)
+>
+> Modifie : Code forestier - art. L321-8 (VT)
+>
+> Modifie : Code forestier - art. L322-3 (M)
+>
+> Modifie : Code forestier - art. L424-3 (VT)
+
+L'article 53, second article du chapitre III du titre VI (associations syndicales rurales), concerne le code forestier. Selon la source, il a modifié les articles L. 247-1, L. 321-2, L. 321-3, L. 321-8, L. 322-3 et L. 424-3 de ce code et créé l'article L. 247-8. Il complète ainsi l'article 52, qui visait principalement le code rural, en coordonnant avec l'ordonnance les dispositions forestières relatives aux associations syndicales.
+
+Plusieurs références portent la mention « (VT) », qui désigne selon les conventions de la base LEGI une disposition en vigueur assortie d'un terme, les autres étant signalées comme en vigueur (« (V) ») ou modifiées depuis (« (M) »). Comme les autres articles du titre VI reproduits dans la source, l'article 53 n'a pas de contenu normatif autonome dans la version consolidée.
 
 #### Chapitre IV — Dispositions relatives à l'association départementale d'aménagement de l'Isère, du Drac et de la Romanche
 
@@ -150,9 +294,9 @@ Le texte ne règle pas expressément le sort des patrimoines, des contrats et de
 >
 > IV. - L'association départementale est soumise aux dispositions des chapitres II, III et IV du titre III de la présente ordonnance sous réserve des dispositions du présent chapitre.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
-L'article 54 est le premier des articles du chapitre IV du titre VI que reproduit la source ; ce chapitre est consacré à l'association départementale d'aménagement de l'Isère, du Drac et de la Romanche. Les chapitres I à III du titre VI et les articles 49 à 53 ne figurent pas dans la version consolidée de la source.
+L'article 54 est le premier des articles du chapitre IV du titre VI que reproduit la source ; ce chapitre est consacré à l'association départementale d'aménagement de l'Isère, du Drac et de la Romanche. Les chapitres Ier à III du titre VI (articles 49 à 53) ne contiennent que des articles purement modificatifs de textes particuliers, reproduits par la source avec la mention « a modifié les dispositions suivantes » et commentés à leur place ; le chapitre IV est ainsi le seul du titre VI à comporter un régime propre.
 
 Le I qualifie l'association départementale d'établissement public à caractère administratif, constitué en vue de l'aménagement et de l'entretien du système de protection contre les inondations et d'assainissement des plaines de l'Isère, du Drac et de la Romanche. L'objet relève des finalités de l'article 1er, a et c. Le second alinéa du I l'habilite à réaliser des prestations de service en rapport avec son objet au bénéfice de toute personne publique, y compris en dehors de son périmètre ; ces prestations font l'objet d'une individualisation comptable (art. 56, III).
 
@@ -204,7 +348,7 @@ La source ne reproduit pas sous cet article la note relative à la ratification 
 >
 > V. - L'association départementale est éligible au fonds de compensation pour la taxe sur la valeur ajoutée dans les conditions prévues aux articles L. 1615-1 à L. 1615-11 du code général des collectivités territoriales.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 56 fixe les règles financières particulières de l'association départementale d'aménagement de l'Isère, du Drac et de la Romanche. Le I pose le principe : ses ressources sont celles des associations syndicales autorisées (art. 31), sous réserve des dispositions de l'article 56.
 
@@ -236,7 +380,7 @@ Les dispositions budgétaires et comptables de l'article 56 relèvent également
 >
 > II. - La dissolution de l'association départementale ne peut être décidée que par l'autorité administrative. Elle ne peut être prononcée qu'à la condition qu'une autre personne publique se substitue à l'association dans l'exercice de ses missions.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 57 règle la modification des statuts et la dissolution de l'association départementale d'aménagement de l'Isère, du Drac et de la Romanche, en dérogeant aux articles 37 à 42 rendus applicables par l'article 54, IV.
 
@@ -252,7 +396,7 @@ Le II encadre strictement la dissolution : elle ne peut être décidée que par 
 
 > La loi du 21 juin 1865 relative aux associations syndicales et la loi du 5 août 1911 relative aux associations syndicales autorisées sont abrogées sauf en ce qui concerne la Polynésie française et la Nouvelle-Calédonie.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 58 ouvre le titre VII consacré aux dispositions diverses et transitoires. Il abroge la loi du 21 juin 1865 relative aux associations syndicales et la loi du 5 août 1911 relative aux associations syndicales autorisées, qui constituaient le cadre législatif antérieur des associations syndicales. L'ordonnance se substitue ainsi à ces textes et devient le droit commun de la matière.
 
@@ -266,7 +410,7 @@ L'abrogation doit être lue avec l'article 60, qui soumet aux nouvelles règles 
 
 > La loi du 27 juillet 1930 relative à l'exécution de travaux d'aménagement du système d'endiguement et d'assainissement des plaines de l'Isère, du Drac et de la Romanche (Grésivaudan et Oisans), la loi du 30 novembre 1941 relative à l'aménagement et à l'assainissement des plaines de l'Isère, du Drac et de la Romanche (Grésivaudan et Oisans) et la loi du 31 décembre 1948 validant, en complétant certaines de ses dispositions, la loi du 30 novembre 1941 sont abrogées.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 59 abroge trois lois particulières relatives à l'aménagement des plaines de l'Isère, du Drac et de la Romanche (Grésivaudan et Oisans) : la loi du 27 juillet 1930 relative à l'exécution de travaux d'aménagement du système d'endiguement et d'assainissement de ces plaines, la loi du 30 novembre 1941 relative à leur aménagement et à leur assainissement, et la loi du 31 décembre 1948 validant, en la complétant, la loi du 30 novembre 1941.
 
@@ -298,6 +442,22 @@ Le troisième alinéa, ajouté ultérieurement, traite des associations syndical
 
 Le II étend le dispositif de mise en conformité du second alinéa du I aux associations foncières des articles L. 322-1 du code de l'urbanisme et L. 131-1 du code rural, avec un délai de cinq ans pour les associations foncières de réorganisation foncière et de remembrement (art. L. 132-1 et L. 133-1 du code rural) constituées pour des opérations ordonnées avant le 1er janvier 2006. Le III fixe le régime transitoire de l'association départementale de l'Isère, du Drac et de la Romanche (voir art. 59). La source ne reproduit pas sous cet article la note relative à la ratification.
 
+### Article 61
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Loi n°84-595 du 12 juillet 1984 - art. 33 (V)
+>
+> Modifie : Code de l'environnement - art. L212-5 (M)
+>
+> Modifie : Code de la construction et de l'habitation. - art. L214-5 (V)
+
+L'article 61 figure au titre VII, consacré aux dispositions diverses et transitoires, entre la disposition transitoire de l'article 60 et le renvoi au décret en Conseil d'Etat de l'article 62. Il est purement modificatif : selon la source, il a modifié l'article 33 de la loi n° 84-595 du 12 juillet 1984, l'article L. 212-5 du code de l'environnement et l'article L. 214-5 du code de la construction et de l'habitation.
+
+Il s'agit de modifications de coordination portant sur des textes extérieurs à l'ordonnance. Les mentions « (V) » et « (M) » indiquent, selon les conventions de la base, que les dispositions visées sont en vigueur ou ont été modifiées depuis. L'article n'a pas de période de vigueur propre dans la base LEGI ; il est reproduit pour la complétude de la numérotation du titre VII.
+
 ### Article 62
 
 **Texte de la disposition:**
@@ -326,7 +486,7 @@ Le II étend le dispositif de mise en conformité du second alinéa du I aux ass
 >
 > 11° La définition de la surface en deçà de laquelle il est possible de recourir à une procédure simplifiée d'extension ou de réduction du périmètre d'une association syndicale autorisée.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 62 est le texte d'habilitation réglementaire général de l'ordonnance. Il prévoit que ses modalités d'application sont fixées par décret en Conseil d'État, « notamment » sur onze points ; l'énumération n'est donc pas exhaustive.
 
@@ -334,7 +494,7 @@ Les points énumérés correspondent aux renvois disséminés dans l'ordonnance 
 
 Le 5° présente un intérêt propre : il s'agit de la seule matière que l'ordonnance ne traite pas ailleurs. Il permet d'associer aux délibérations du syndicat les financeurs de l'association (art. 31, I, 4°) sans leur conférer de voix délibérative.
 
-La publication du décret prévu à l'article 62 sert de point de départ aux délais transitoires de l'article 60. L'article 65 rend l'article 62 applicable aux îles Wallis et Futuna. L'importance des renvois montre que l'ordonnance pose les principes et laisse au pouvoir réglementaire une part substantielle du régime des associations autorisées. L'article 61 ne figure pas dans la version consolidée de la source.
+La publication du décret prévu à l'article 62 sert de point de départ aux délais transitoires de l'article 60. L'article 65 rend l'article 62 applicable aux îles Wallis et Futuna. L'importance des renvois montre que l'ordonnance pose les principes et laisse au pouvoir réglementaire une part substantielle du régime des associations autorisées. L'article 61, qui le précède, est un article purement modificatif (voir son commentaire).
 
 #### TITRE VIII — DISPOSITIONS PARTICULIÈRES RELATIVES À MAYOTTE ET AUX ÎLES WALLIS ET FUTUNA
 
@@ -346,11 +506,19 @@ La publication du décret prévu à l'article 62 sert de point de départ aux d�
 
 > L'article 27 n'est pas applicable à Mayotte.
 
-L'article 63 constitue le chapitre Ier du titre VIII relatif à Mayotte. Il dispose que l'article 27 n'est pas applicable à Mayotte.
+L'article 63 est le seul article en vigueur du chapitre Ier du titre VIII relatif à Mayotte. Il dispose que l'article 27 n'est pas applicable à Mayotte.
 
 L'article 27 rend applicables aux associations syndicales autorisées les dispositions de la loi du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'œuvre privée, sous réserve d'une exception concernant les relations avec une union ou un syndicat mixte. Le texte n'expose pas les raisons de cette exclusion ; elle doit être rapprochée du fait que l'article 27 opère par renvoi à une loi extérieure, dont l'application outre-mer obéit à ses propres règles. Les visas mentionnent la saisine du conseil général de Mayotte, ce qui atteste que les adaptations mahoraises ont été examinées lors de l'élaboration de l'ordonnance.
 
-A contrario, les autres dispositions de l'ordonnance sont applicables à Mayotte, sans adaptation terminologique comparable à celle de l'article 66 pour les îles Wallis et Futuna. Les associations syndicales mahoraises relèvent donc du droit commun de l'ordonnance, à l'exception des règles de maîtrise d'ouvrage publique de l'article 27. Les règles relatives aux marchés (art. 26) et à la propriété des ouvrages (art. 29) demeurent applicables. L'article 64 ne figure pas dans la version consolidée de la source.
+A contrario, les autres dispositions de l'ordonnance sont applicables à Mayotte, sans adaptation terminologique comparable à celle de l'article 66 pour les îles Wallis et Futuna. Les associations syndicales mahoraises relèvent donc du droit commun de l'ordonnance, à l'exception des règles de maîtrise d'ouvrage publique de l'article 27. Les règles relatives aux marchés (art. 26) et à la propriété des ouvrages (art. 29) demeurent applicables. L'article 64, qui suivait dans le même chapitre, est abrogé depuis le 1er juillet 2012.
+
+### Article 64
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2012-07-01 par Ordonnance n°2012-789 du 31 mai 2012 - art. 19)
+
+L'article 64 appartenait au chapitre Ier du titre VIII, relatif à l'application de l'ordonnance à Mayotte, à la suite de l'article 63 qui écarte l'application de l'article 27. Selon la source, il est abrogé à compter du 1er juillet 2012 par l'article 19 de l'ordonnance n° 2012-789 du 31 mai 2012 ; son texte n'est pas reproduit et le commentaire ne le reconstitue pas. Dans ce chapitre, seul l'article 63 demeure donc en vigueur.
 
 #### Chapitre II — Dispositions applicables aux îles Wallis et Futuna
 
@@ -360,7 +528,7 @@ A contrario, les autres dispositions de l'ordonnance sont applicables à Mayotte
 
 > Les articles 1er à 11, le premier et le troisième alinéas de l'article 12, les articles 13 à 26, 28 à 48, 58, 60 et 62 sont applicables aux îles Wallis et Futuna sous réserve des mesures prévues au présent chapitre.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 65 détermine les dispositions de l'ordonnance applicables aux îles Wallis et Futuna, sous réserve des adaptations prévues au chapitre II du titre VIII. La technique est celle de la mention expresse d'applicabilité : seules les dispositions énumérées s'appliquent.
 
@@ -390,7 +558,7 @@ L'énumération comprend l'article 58, qui abroge les lois de 1865 et de 1911. L
 >
 > II. - Pour l'application aux îles Wallis et Futuna de l'article 28, les mots : "prévues aux articles L. 152-1 à L. 152-23 du code rural et à l'article L. 321-5-1 du code forestier" sont remplacés par les mots : "prévues par les dispositions applicables localement".
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 66 adapte l'ordonnance aux îles Wallis et Futuna, dont l'organisation administrative et juridictionnelle diffère de celle de la métropole. Il complète l'article 65, qui énumère les dispositions applicables.
 
