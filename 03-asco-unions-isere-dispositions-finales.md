@@ -16,7 +16,7 @@
 >
 > En cas de carence, l'autorité administrative peut, après mise en demeure restée sans effet dans un délai d'un mois, se substituer dans tous leurs actes aux organes défaillants de l'association syndicale constituée d'office.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 43 ouvre le titre IV et régit la troisième catégorie d'associations prévue par l'article 2 : l'association syndicale constituée d'office, établissement public administratif créé par décision unilatérale de l'autorité administrative. Le premier alinéa en fixe les conditions, strictes et cumulatives. L'objet doit relever des ouvrages ou travaux mentionnés aux a à c de l'article 1er — prévention des risques et pollutions, ressources naturelles, cours d'eau, lacs, plans d'eau, voies et réseaux — à l'exclusion de la simple mise en valeur des propriétés (d). Il doit exister une obligation légale à la charge des propriétaires. Enfin, une association syndicale autorisée « n'a pu être constituée », ce qui fait de la constitution d'office une solution subsidiaire, lorsque la voie consensuelle des articles 11 à 15 a échoué. L'association regroupe alors l'ensemble des propriétaires intéressés.
 
@@ -34,7 +34,7 @@ L'accomplissement des formalités de publicité de l'article 43 conditionne la c
 >
 > La transformation peut être prononcée par l'autorité administrative lorsque les membres du syndicat ont été désignés par l'assemblée des propriétaires et lorsque l'association fonctionne normalement depuis au moins un exercice budgétaire.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 44 organise la transformation d'une association syndicale constituée d'office en association syndicale autorisée. Il est le pendant de l'article 10, qui permet la transformation d'une association libre en association autorisée ; l'association autorisée apparaît ainsi comme la forme centrale vers laquelle convergent les deux autres catégories.
 
@@ -50,7 +50,7 @@ L'article ne précise pas les effets de la transformation sur la personnalité m
 
 > La dissolution d'une association syndicale constituée d'office ne peut être décidée qu'à l'initiative de l'autorité administrative.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 45 réserve à l'autorité administrative l'initiative de la dissolution d'une association syndicale constituée d'office. Il déroge ainsi au premier alinéa de l'article 40, qui permet la dissolution d'une association autorisée à la demande de ses membres réunis à la majorité de l'article 14.
 
@@ -64,7 +64,7 @@ Les propriétaires conservent cependant un moyen indirect : obtenir la transform
 
 > Les autres dispositions régissant les associations syndicales autorisées sont applicables aux associations syndicales constituées d'office.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 46 est une disposition de renvoi général : « les autres dispositions régissant les associations syndicales autorisées sont applicables aux associations syndicales constituées d'office ». Le titre IV ne contient donc qu'un régime dérogatoire limité à la création (art. 43), à la transformation (art. 44) et à la dissolution (art. 45) ; pour le reste, l'association constituée d'office fonctionne comme une association autorisée.
 
@@ -96,7 +96,7 @@ Le renvoi à « d'autres dispositions » réserve celles du titre IV qui ont un 
 >
 > Les autres dispositions régissant les associations syndicales autorisées sont applicables aux unions.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 47 ouvre le titre V et régit les unions d'associations syndicales. Le premier alinéa en définit l'objet et la composition : les associations syndicales autorisées ou constituées d'office peuvent se grouper en unions « pour faciliter leur gestion ou en vue de l'exécution ou de l'entretien de travaux ou d'ouvrages d'intérêt commun ». Les associations libres en sont exclues. L'union est formée sur la demande d'une ou plusieurs associations adressée à l'autorité administrative du siège prévu. Elle est un établissement public administratif (art. 2).
 
@@ -118,7 +118,7 @@ Le huitième alinéa permet la dissolution de l'union par acte de l'autorité ad
 >
 > La fusion peut être autorisée par acte de l'autorité administrative lorsque l'assemblée des propriétaires de chaque association appelée à fusionner s'est prononcée favorablement dans les conditions de majorité prévues à l'article 14.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 48 régit la fusion d'associations syndicales, distincte de l'union de l'article 47. Alors que l'union superpose un établissement de second degré aux associations qui conservent leur existence, la fusion réunit deux ou plusieurs associations en une seule association syndicale autorisée.
 
@@ -150,7 +150,7 @@ Le texte ne règle pas expressément le sort des patrimoines, des contrats et de
 >
 > IV. - L'association départementale est soumise aux dispositions des chapitres II, III et IV du titre III de la présente ordonnance sous réserve des dispositions du présent chapitre.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 54 est le premier des articles du chapitre IV du titre VI que reproduit la source ; ce chapitre est consacré à l'association départementale d'aménagement de l'Isère, du Drac et de la Romanche. Les chapitres I à III du titre VI et les articles 49 à 53 ne figurent pas dans la version consolidée de la source.
 
@@ -204,7 +204,7 @@ La source ne reproduit pas sous cet article la note relative à la ratification 
 >
 > V. - L'association départementale est éligible au fonds de compensation pour la taxe sur la valeur ajoutée dans les conditions prévues aux articles L. 1615-1 à L. 1615-11 du code général des collectivités territoriales.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 56 fixe les règles financières particulières de l'association départementale d'aménagement de l'Isère, du Drac et de la Romanche. Le I pose le principe : ses ressources sont celles des associations syndicales autorisées (art. 31), sous réserve des dispositions de l'article 56.
 
@@ -236,7 +236,7 @@ Les dispositions budgétaires et comptables de l'article 56 relèvent également
 >
 > II. - La dissolution de l'association départementale ne peut être décidée que par l'autorité administrative. Elle ne peut être prononcée qu'à la condition qu'une autre personne publique se substitue à l'association dans l'exercice de ses missions.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 57 règle la modification des statuts et la dissolution de l'association départementale d'aménagement de l'Isère, du Drac et de la Romanche, en dérogeant aux articles 37 à 42 rendus applicables par l'article 54, IV.
 
@@ -252,7 +252,7 @@ Le II encadre strictement la dissolution : elle ne peut être décidée que par 
 
 > La loi du 21 juin 1865 relative aux associations syndicales et la loi du 5 août 1911 relative aux associations syndicales autorisées sont abrogées sauf en ce qui concerne la Polynésie française et la Nouvelle-Calédonie.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 58 ouvre le titre VII consacré aux dispositions diverses et transitoires. Il abroge la loi du 21 juin 1865 relative aux associations syndicales et la loi du 5 août 1911 relative aux associations syndicales autorisées, qui constituaient le cadre législatif antérieur des associations syndicales. L'ordonnance se substitue ainsi à ces textes et devient le droit commun de la matière.
 
@@ -266,7 +266,7 @@ L'abrogation doit être lue avec l'article 60, qui soumet aux nouvelles règles 
 
 > La loi du 27 juillet 1930 relative à l'exécution de travaux d'aménagement du système d'endiguement et d'assainissement des plaines de l'Isère, du Drac et de la Romanche (Grésivaudan et Oisans), la loi du 30 novembre 1941 relative à l'aménagement et à l'assainissement des plaines de l'Isère, du Drac et de la Romanche (Grésivaudan et Oisans) et la loi du 31 décembre 1948 validant, en complétant certaines de ses dispositions, la loi du 30 novembre 1941 sont abrogées.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 59 abroge trois lois particulières relatives à l'aménagement des plaines de l'Isère, du Drac et de la Romanche (Grésivaudan et Oisans) : la loi du 27 juillet 1930 relative à l'exécution de travaux d'aménagement du système d'endiguement et d'assainissement de ces plaines, la loi du 30 novembre 1941 relative à leur aménagement et à leur assainissement, et la loi du 31 décembre 1948 validant, en la complétant, la loi du 30 novembre 1941.
 
@@ -326,7 +326,7 @@ Le II étend le dispositif de mise en conformité du second alinéa du I aux ass
 >
 > 11° La définition de la surface en deçà de laquelle il est possible de recourir à une procédure simplifiée d'extension ou de réduction du périmètre d'une association syndicale autorisée.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 62 est le texte d'habilitation réglementaire général de l'ordonnance. Il prévoit que ses modalités d'application sont fixées par décret en Conseil d'État, « notamment » sur onze points ; l'énumération n'est donc pas exhaustive.
 
@@ -360,7 +360,7 @@ A contrario, les autres dispositions de l'ordonnance sont applicables à Mayotte
 
 > Les articles 1er à 11, le premier et le troisième alinéas de l'article 12, les articles 13 à 26, 28 à 48, 58, 60 et 62 sont applicables aux îles Wallis et Futuna sous réserve des mesures prévues au présent chapitre.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 65 détermine les dispositions de l'ordonnance applicables aux îles Wallis et Futuna, sous réserve des adaptations prévues au chapitre II du titre VIII. La technique est celle de la mention expresse d'applicabilité : seules les dispositions énumérées s'appliquent.
 
@@ -390,7 +390,7 @@ L'énumération comprend l'article 58, qui abroge les lois de 1865 et de 1911. L
 >
 > II. - Pour l'application aux îles Wallis et Futuna de l'article 28, les mots : "prévues aux articles L. 152-1 à L. 152-23 du code rural et à l'article L. 321-5-1 du code forestier" sont remplacés par les mots : "prévues par les dispositions applicables localement".
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 66 adapte l'ordonnance aux îles Wallis et Futuna, dont l'organisation administrative et juridictionnelle diffère de celle de la métropole. Il complète l'article 65, qui énumère les dispositions applicables.
 

@@ -7,7 +7,7 @@
 - **Texte :** Ordonnance n° 2004-632 du 1er juillet 2004 relative aux associations syndicales de propriétaires
 - **Nature :** ordonnance prise sur le fondement de l'article 38 de la Constitution ; numéro 2004-632 ; NOR INTX0400093R
 - **Habilitation (selon les visas) :** loi n° 2003-591 du 2 juillet 2003 habilitant le Gouvernement à simplifier le droit, notamment ses articles 12 et 36
-- **Ratification (selon la note de la source) :** article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004
+- **Ratification (selon la note de la source) :** article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004
 - **Publication initiale :** JORF du 2 juillet 2004 ; début de vigueur indiqué par la source : 2 juillet 2004
 - **Texte de référence :** version consolidée en vigueur au **2 octobre 2026** (dernière modification enregistrée : 1er janvier 2026)
 - **Source :** base LEGI de la Direction de l'information légale et administrative (DILA), identifiant LEGITEXT000005796452 — [Légifrance](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005796452)
@@ -32,7 +32,7 @@ Le commentaire suit cette structure en trois chapitres :
 
 ## Méthode
 
-Le texte de chaque article est reproduit à l'identique, par extraction automatique de la version consolidée de la base LEGI ; il n'a pas été ressaisi manuellement. Les notes de la source (NOTA) sont reproduites sous l'article concerné ; la plupart rappellent la ratification de l'ordonnance, d'autres renseignent sur l'entrée en vigueur de modifications (art. 33-1 et 34). Le commentaire analyse la fonction de chaque disposition, ses conditions et ses effets, ainsi que ses liens avec les autres articles de l'ordonnance ; il ne repose sur aucune base de données juridique commerciale.
+Le texte de chaque article est reproduit à l'identique, par extraction automatique de la version consolidée de la base LEGI ; il n'a pas été ressaisi manuellement. Les notes de la source (NOTA) sont reproduites sous l'article concerné ; la plupart rappellent la ratification de l'ordonnance, d'autres renseignent sur l'entrée en vigueur de modifications (art. 33-1 et 34). Dans ces notes comme dans le commentaire, le numéro de paragraphe de l'article 78 de la loi n° 2004-1343, écrit en chiffres romains dans la source, est reproduit au moyen des caractères Unicode de numération romaine (ⅩⅩⅩ), équivalents en normalisation de compatibilité. Le commentaire analyse la fonction de chaque disposition, ses conditions et ses effets, ainsi que ses liens avec les autres articles de l'ordonnance ; il ne repose sur aucune base de données juridique commerciale.
 
 L'ordonnance renvoie largement à un décret en Conseil d'État (art. 62) ; ce décret n'est pas reproduit, et le commentaire se borne à identifier les matières qui lui sont renvoyées, sans en exposer le contenu.
 

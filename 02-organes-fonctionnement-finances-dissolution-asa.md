@@ -14,7 +14,7 @@
 >
 > Sous réserve des attributions de l'assemblée des propriétaires, le syndicat règle, par ses délibérations, les affaires de l'association syndicale autorisée.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 18 ouvre le chapitre II du titre III consacré aux organes et au fonctionnement de l'association syndicale autorisée. Le premier alinéa énumère limitativement les organes : l'assemblée des propriétaires, le syndicat, le président et le vice-président. Les sous-sections suivantes en précisent la composition et les attributions : assemblée (art. 19 et 20), syndicat (art. 21), président et vice-président (art. 22 et 23).
 
@@ -56,7 +56,7 @@ La source ne reproduit pas sous cet article la note relative à la ratification,
 >
 > e) Toute question qui lui est soumise en application d'une loi ou d'un règlement.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 20 énumère les attributions de l'assemblée des propriétaires, qui, en vertu de l'article 18, ne dispose que des compétences qui lui sont attribuées. La première est électorale : l'assemblée élit les membres du syndicat et leurs suppléants ; l'article 21 précise qu'ils sont élus en son sein.
 
@@ -74,7 +74,7 @@ L'énumération ne comprend pas le vote du budget ni la fixation des bases de r�
 >
 > Un membre du syndicat peut se faire représenter dans des conditions définies par décret en Conseil d'Etat.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 21 définit la composition du syndicat, organe de gestion de droit commun de l'association syndicale autorisée (art. 18). Le premier alinéa prévoit que ses membres sont élus par l'assemblée des propriétaires « en son sein », dans les conditions fixées par les statuts. Les membres du syndicat sont donc nécessairement des membres de l'assemblée ; l'article 20 précise que l'assemblée élit également des suppléants. Les statuts déterminent le nombre de membres, la durée du mandat et les modalités de l'élection. Le texte ne prévoit pas que les membres du syndicat soient choisis en dehors de l'assemblée ; seule l'association constituée d'office connaît une telle possibilité, lorsque l'autorité administrative désigne d'office les membres du syndicat (art. 43, quatrième alinéa).
 
@@ -94,7 +94,7 @@ Le syndicat élit en son sein le président et le vice-président (art. 22). Il 
 >
 > Le vice-président remplace le président en cas d'absence ou d'empêchement.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 22 règle la désignation, la durée du mandat et la révocation du président et du vice-président de l'association syndicale autorisée. Le premier alinéa prévoit leur élection par le syndicat parmi ses membres, dans les conditions prévues par les statuts. L'exécutif procède donc d'une élection à deux degrés : les propriétaires élisent le syndicat (art. 20 et 21), qui élit le président et le vice-président.
 
@@ -116,7 +116,7 @@ L'article 55 adapte ce schéma à l'association départementale de l'Isère, du 
 >
 > Le président élabore, dans des conditions fixées par le décret en Conseil d'Etat prévu à l'article 62, un rapport sur l'activité de l'association et sa situation financière.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 23 définit les attributions du président de l'association syndicale autorisée. Le premier alinéa en fait l'organe d'exécution des délibérations : il prépare et exécute celles de l'assemblée des propriétaires et du syndicat, en convoque et préside les réunions.
 
@@ -138,7 +138,7 @@ Les attributions de l'article 23 sont transposées au président de l'associatio
 
 > Les agents des associations syndicales autorisées sont des agents contractuels de droit public. Le recrutement de ces agents ne leur donne aucun droit à être titularisés dans la fonction publique. Les associations syndicales peuvent en outre faire appel à raison de leur compétence à des agents de droit privé avec lesquels elles concluent des contrats à durée déterminée et indéterminée.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 24 fixe le statut du personnel des associations syndicales autorisées. La première phrase pose que leurs agents sont des agents contractuels de droit public. Cette qualification découle de la nature d'établissement public administratif de l'association (art. 2) et entraîne l'application du régime des agents publics non titulaires, ainsi que la compétence du juge administratif pour les litiges relatifs à leur situation.
 
@@ -156,7 +156,7 @@ La coexistence de deux catégories d'agents au sein d'un même établissement pu
 
 > Les délibérations de l'assemblée des propriétaires et du syndicat et les actes pris par le président de l'association ou le directeur sont, dans des conditions fixées par le décret en Conseil d'Etat prévu à l'article 62, transmis à l'autorité administrative compétente dans le département où l'association a son siège et rendus exécutoires.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 25 définit le régime juridique des actes des organes de l'association syndicale autorisée. Il vise les délibérations de l'assemblée des propriétaires et du syndicat ainsi que les actes pris par le président ou par le directeur auquel il a délégué certaines attributions (art. 23). Ces actes sont transmis à l'autorité administrative compétente dans le département du siège et « rendus exécutoires », dans des conditions fixées par le décret prévu à l'article 62 (voir son 1°).
 
@@ -174,7 +174,7 @@ Le caractère d'actes administratifs des délibérations et décisions de l'asso
 
 > Les conditions dans lesquelles les marchés sont passés et exécutés par les associations syndicales autorisées sont définies par le décret en Conseil d'Etat prévu à l'article 62.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 26 ouvre la section consacrée à la réalisation des travaux et ouvrages. Il se borne à renvoyer au décret en Conseil d'État prévu à l'article 62 (voir son 7°) la définition des conditions dans lesquelles les marchés des associations syndicales autorisées sont passés et exécutés.
 
@@ -190,7 +190,7 @@ L'article 26 s'articule avec l'article 27, qui rend applicables aux associations
 >
 > Toutefois, le I de l'article 4 de cette loi ne s'applique pas aux relations entre une association syndicale autorisée et une union ou un syndicat mixte dont elle est membre.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 27 rend applicables aux associations syndicales autorisées les dispositions de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'œuvre privée, visée dans les visas de l'ordonnance. Il s'agit d'un renvoi au texte tel qu'il figure dans l'ordonnance ; la source n'indique pas de modification de ce renvoi, et le commentaire n'en tire pas de conséquence quant au droit actuellement applicable à la maîtrise d'ouvrage publique.
 
@@ -208,7 +208,7 @@ L'article 63 exclut l'application de l'article 27 à Mayotte, et l'article 65 ne
 >
 > En outre, une servitude de passage peut être instituée pour l'entretien d'ouvrages qui traversent, même en dehors du périmètre de l'association, les cours, jardins, parcs et enclos, qu'ils soient ou non attenant aux habitations.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 28 dote les associations syndicales autorisées d'un régime de servitudes permettant la réalisation et l'entretien de leurs ouvrages sur des fonds qui ne leur appartiennent pas. Le premier alinéa rend applicable le régime des servitudes d'établissement, d'aménagement, de passage et d'appui prévues aux articles L. 152-1 à L. 152-23 du code rural et à l'article L. 321-5-1 du code forestier. L'association bénéficie ainsi des servitudes que ces codes prévoient, notamment pour l'établissement de canalisations, la conduite des eaux et l'accès aux ouvrages.
 
@@ -224,7 +224,7 @@ Pour les îles Wallis et Futuna, l'article 66, II, remplace le renvoi aux codes 
 
 > A l'exception des ouvrages réalisés, le cas échéant en dehors de son périmètre, sur le domaine public d'une personne publique, l'association syndicale autorisée est propriétaire des ouvrages qu'elle réalise en qualité de maître d'ouvrage dans le cadre de son objet statutaire et, à ce titre, en assure l'entretien. Toutefois, les statuts peuvent prévoir, pour certaines catégories d'ouvrages, que leur propriété ou leur entretien peuvent être attribués à un ou plusieurs membres de l'association.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 29 règle la propriété et l'entretien des ouvrages réalisés par l'association syndicale autorisée. Le principe est que l'association est propriétaire des ouvrages qu'elle réalise en qualité de maître d'ouvrage dans le cadre de son objet statutaire et, à ce titre, en assure l'entretien. La propriété suit ainsi la maîtrise d'ouvrage (art. 27) et l'entretien suit la propriété.
 
@@ -246,7 +246,7 @@ La propriété des ouvrages a des conséquences en cas de dissolution, puisque l
 >
 > Dans le cas prévu à l'alinéa précédent, l'Etat, les collectivités territoriales ou leurs groupements peuvent décider, dans des conditions définies par le décret en Conseil d'Etat prévu à l'article 62, de se substituer, en tout ou partie, à l'association dans ses droits et obligations.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 30 organise l'intervention de l'autorité administrative en cas de défaillance de l'association syndicale autorisée. Il est subordonné à une mise en demeure de l'association restée sans effet dans un délai que l'autorité détermine ; la mise en demeure est une condition de procédure qui permet à l'association de remédier elle-même à la situation.
 
@@ -284,7 +284,7 @@ L'article 30 s'inscrit dans l'ensemble des pouvoirs de tutelle de l'ordonnance, 
 >
 > Des redevances syndicales spéciales sont établies pour toutes les dépenses relatives à l'exécution financière des jugements et transactions.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 31 ouvre le chapitre III consacré aux dispositions financières. Le I énumère les ressources de l'association syndicale autorisée : redevances dues par les membres (1°), dons et legs (2°), produit des cessions d'éléments d'actifs (3°), subventions de diverses origines (4°), revenus des biens meubles ou immeubles (5°), produit des emprunts (6°), le cas échéant amortissement, provisions et résultat disponible de la section de fonctionnement (7°), et tout autre produit afférent aux missions statutaires (8°). La liste, ouverte par le 8°, reflète la comptabilité d'un établissement public, distinguant notamment une section de fonctionnement.
 
@@ -300,7 +300,7 @@ Les redevances sont garanties par l'hypothèque légale (art. 6) et le privilèg
 
 > Les fonds des associations syndicales autorisées sont obligatoirement déposés auprès de l'Etat, sauf dérogations définies par le décret en Conseil d'Etat prévu à l'article 62.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 32 impose aux associations syndicales autorisées de déposer obligatoirement leurs fonds auprès de l'État, sauf dérogations définies par le décret en Conseil d'État prévu à l'article 62 (voir son 9°).
 
@@ -316,7 +316,7 @@ L'obligation de dépôt ne s'applique pas aux associations syndicales libres, pe
 
 > Le budget de l'association doit être voté en équilibre réel. Il est transmis à l'autorité administrative compétente dans le département où l'association a son siège.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 33 pose deux règles budgétaires. La première est l'obligation de voter le budget de l'association « en équilibre réel ». Cette exigence, inspirée du droit budgétaire local, interdit de présenter un budget dont les recettes seraient surévaluées ou les dépenses sous-évaluées pour masquer un déséquilibre. Elle implique que les redevances (art. 31, II) soient fixées à un niveau suffisant pour couvrir les charges, y compris le remboursement des emprunts.
 
@@ -350,7 +350,7 @@ La note de la source précise que, conformément à l'article 12 de l'ordonnance
 >
 > L'action des comptables publics chargés de recouvrer les créances selon les modalités prévues par l'article L. 1617-5 du code général des collectivités territoriales se prescrit par quatre ans à compter de la prise en charge du titre de recettes.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 *NOTA (source):* Décret n° 2011-2036 du 29 décembre 2011, article 4 : Les dispositions du F du I de l'article 55 de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 entrent en vigueur le 1er janvier 2012.
 
@@ -368,7 +368,7 @@ Le recouvrement public se cumule avec l'hypothèque légale (art. 6) et le privi
 
 > Il est créé en faveur des associations syndicales autorisées, pour le recouvrement des redevances de l'année échue et de l'année courante, sur les récoltes, fruits, loyers et revenus des terrains compris dans le périmètre un privilège qui prend rang immédiatement après celui de la contribution foncière et s'exerce dans les mêmes formes.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 35 crée en faveur des associations syndicales autorisées un privilège spécial pour le recouvrement des redevances. Le privilège garantit les redevances de l'année échue et de l'année courante ; il ne couvre donc pas les arriérés plus anciens, pour lesquels l'association conserve l'hypothèque légale (art. 6) et le recouvrement comme en matière de contributions directes (art. 34).
 
@@ -384,7 +384,7 @@ Le privilège ne bénéficie pas aux associations syndicales libres, la disposit
 
 > Les autres dispositions budgétaires et comptables applicables aux associations syndicales autorisées sont définies par le décret en Conseil d'Etat prévu à l'article 62.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 36 renvoie au décret en Conseil d'État prévu à l'article 62 la définition des « autres dispositions budgétaires et comptables » applicables aux associations syndicales autorisées. L'article 62, 10°, confirme que ce décret fixe les dispositions budgétaires et comptables prévues aux articles 33 à 36 et 56.
 
@@ -412,7 +412,7 @@ L'article 36 s'applique aux associations autorisées, constituées d'office (art
 >
 > III. - L'autorisation de modification des statuts peut être prononcée par acte de l'autorité administrative publié et notifié dans les conditions prévues à l'article 15.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 37 ouvre le chapitre IV consacré à la modification des conditions initiales et à la dissolution, et règle la procédure applicable à l'extension du périmètre et au changement d'objet de l'association syndicale autorisée. Ces modifications sont les plus lourdes, puisqu'elles peuvent soumettre de nouveaux propriétaires à l'association ou modifier la nature des charges imposées aux membres.
 
@@ -436,7 +436,7 @@ Le III prévoit que l'autorisation de modification des statuts « peut être pro
 >
 > La distraction n'affecte pas l'existence des servitudes décrites à l'article 28 tant qu'elles restent nécessaires à l'accomplissement des missions de l'association ou à l'entretien des ouvrages dont elle use.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 38 règle la distraction, c'est-à-dire le retrait d'un immeuble du périmètre de l'association syndicale autorisée. La condition de fond est que l'immeuble n'ait « plus de façon définitive d'intérêt » à être compris dans le périmètre, « pour quelque cause que ce soit ». La perte d'intérêt doit être définitive ; une perte temporaire ne suffit pas. La demande peut émaner de l'autorité administrative, du syndicat ou du propriétaire.
 
@@ -454,7 +454,7 @@ L'article 38 met en œuvre la réserve de l'article 3 : les droits et obligation
 >
 > La délibération correspondante est transmise à l'autorité administrative qui peut autoriser la modification statutaire par acte publié et notifié dans les conditions prévues à l'article 15.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 39 règle les modifications statutaires autres que l'extension de périmètre, le changement d'objet (art. 37) et la distraction (art. 38). Il s'agit des modifications qui ne touchent ni au cercle des membres ni à la mission de l'association : règles de fonctionnement des organes, nombre de membres du syndicat, durée des mandats, seuil d'intérêt minimum pour siéger à l'assemblée (art. 19), modalités de financement.
 
@@ -480,7 +480,7 @@ Le second alinéa prévoit la transmission de la délibération à l'autorité a
 >
 > d) Soit lorsqu'elle connaît des difficultés graves et persistantes entravant son fonctionnement.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 40 définit les cas de dissolution de l'association syndicale autorisée. Le premier alinéa prévoit la dissolution volontaire : elle est prononcée par acte de l'autorité administrative, à la demande des membres qui se prononcent dans les conditions de majorité de l'article 14. La majorité requise pour dissoudre est donc la même que pour créer. L'acte de l'autorité administrative reste nécessaire : les membres ne peuvent dissoudre seuls l'établissement public.
 
@@ -496,7 +496,7 @@ La dissolution est publiée et notifiée selon l'article 15 (art. 41) ; ses cond
 
 > L'acte prononçant la dissolution est publié et notifié dans les conditions prévues à l'article 15.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 41 dispose que l'acte prononçant la dissolution de l'association syndicale autorisée est publié et notifié dans les conditions prévues à l'article 15. La règle vaut pour toutes les hypothèses de dissolution envisagées à l'article 40 : dissolution volontaire à la demande des membres comme dissolution d'office.
 
@@ -512,7 +512,7 @@ La notification fait également courir, à l'égard de ses destinataires, les d�
 >
 > Les propriétaires membres de l'association sont redevables des dettes de l'association jusqu'à leur extinction totale.
 
-*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 XXX de la loi n° 2004-1343 du 9 décembre 2004.
+*NOTA (source):* NOTA : L'ordonnance n° 2004-632 du 1er juillet 2004 est ratifiée par l'article 78 ⅩⅩⅩ de la loi n° 2004-1343 du 9 décembre 2004.
 
 L'article 42 règle les conditions de la dissolution de l'association syndicale autorisée et le sort de son patrimoine. Le premier alinéa confie la détermination des conditions de la dissolution et de la dévolution du passif et de l'actif soit au syndicat, soit, à défaut, à un liquidateur nommé par l'autorité administrative. Le syndicat, organe de gestion (art. 18), est le premier compétent ; le liquidateur n'intervient qu'à défaut, notamment lorsque le syndicat ne se prononce pas ou lorsque la dissolution d'office (art. 40) résulte de son dysfonctionnement.
 
